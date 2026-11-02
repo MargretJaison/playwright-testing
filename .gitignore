@@ -1,26 +1,12 @@
-#Virtual environment
-
+#Virtual environment 
 .venv/
-
 venv/
-
 #Python cache
-
-pycache
-
-*.pyc
-
-.pytest_cache
-
+__pycache__
+*.pyc 
+.pytest_cache 
 test_results/
-
 playwright-report/
-
-report.html
-
-.env
-
+report.html 
+.env 
 .vscode/
-
-
-

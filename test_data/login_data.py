@@ -15,4 +15,3 @@ LOGIN_TEST_DATA = [
         "expected": "failure",
     },
 ]
- 
