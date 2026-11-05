@@ -1,2 +1,2 @@
-# playwright-testing
-Playwright Testing tutorial
+# Playwright-Testing
+Playwright Testing project
